@@ -57,6 +57,7 @@ Track important health metrics:
 - Extract key findings and important health indicators
 - Generate concise and easy-to-understand summaries
 
+<img width="1470" height="798" alt="image" src="https://github.com/user-attachments/assets/f330a8b8-0f61-46c7-838a-5b6428befef0" />
 
 
 ### 🚨 Emergency Assistance
